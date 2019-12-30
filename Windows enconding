@@ -1,0 +1,4 @@
+Question : After changing the language of windows to English, Intellij Idea can't started. Because Encoding don't match.
+
+Solution : All setting -->Time&Language -->Language -->Administrative language settings --> change system locale -->change chinese 
+           and Restart
