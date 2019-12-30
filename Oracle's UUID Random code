@@ -1,3 +1,4 @@
 select sys_guid(),rawtohex(sys_guid()) from dual;
 
 use sys_guid() get oracle's uuid ,maybe show random code,use rawtohex() processing ,you can get standard uuid.
+使用sys_guid（）获取oracle的uuid，可能显示乱码，使用rawtohex（）处理，就可以得到标准的uuid。
