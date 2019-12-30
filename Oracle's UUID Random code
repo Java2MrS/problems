@@ -1,0 +1,3 @@
+select sys_guid(),rawtohex(sys_guid()) from dual;
+
+use sys_guid() get oracle's uuid ,maybe show random code,use rawtohex() processing ,you can get standard uuid.
