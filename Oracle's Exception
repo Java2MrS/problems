@@ -1,0 +1,3 @@
+error:java.sql.SqlException:cannot convert between UTF8 and UC32:failUTF8Conv
+
+Password expires after 7 days ,Change the password to log in normally
