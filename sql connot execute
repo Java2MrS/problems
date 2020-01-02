@@ -1,0 +1,1 @@
+sql is always executed,no results are returned.you can executed "analyze table tablename compute statistics"
